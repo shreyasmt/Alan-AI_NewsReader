@@ -1,3 +1,53 @@
+</br>
+<p align="center">
+  <img src="UI snippet.PNG" alt="UI" width="400" height="200">
+  
+<h3 align="center">An AI controlled News Reader Application</h3>
+<p align="center">
+    <a href="https://ainews-8d02b.web.app/">View Demo</a>
+  </p>
+  
+  ## ✨ Features
+
+- Voice Controlled new reader
+- Automated navigation through the whole application
+- Reads The headlines of the news cards when commanded
+- Causal communication with the AI is activated
+- Opens the news links when requested.
+
+## Tech Stack
+
+| Stack    | -                                                                                                  | -                                                                                                      | -                                                                                                | -                                                                                                                |                                                                                                                                      
+| -------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | 
+| FrontEnd | <p align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100" height="100"> <br />Reactjs</p> | <p align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100" height="100"> <br />JavaScript</p>  | <p align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="100" height="100"> <br />CSS3</p>   | <p align="center"><img src="https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" width="100" height="100"> <br />Material-UI</p> | 
+| BackEnd  | <p align="center"><img src="https://www.gstatic.com/devrel-devsite/prod/v85e39fe21f53c758adf6c791fb94a7a2182cff2705b3dc8ed7c59fc745471159/firebase/images/touchicon-180.png" width="100" height="100"> <br />Firebase</p>   | <p align="center"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/80/48/e3/8048e37d-0d91-b1c4-b52f-9a9f2a5b2519/source/512x512bb.jpg" width="100" height="100"> <br />Alan AI</p> | <p align="center"><br />-</p> | <p align="center"><br />-</p>               | <p align="center"> <br />-</p> | 
+
+</br>
+
+Made with :heart: and javascript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
